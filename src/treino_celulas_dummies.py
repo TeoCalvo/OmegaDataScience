@@ -1,7 +1,6 @@
 # %% 
 
 import pandas as pd
-from sklearn import pipeline
 from sklearn import tree
 
 # %%
